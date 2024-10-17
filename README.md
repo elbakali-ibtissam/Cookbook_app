@@ -15,3 +15,6 @@ Langage : Java
 Environnement : Android Studio
 
 Base de données : SQLite
+
+
+Voici un lien vers une video descriptive de l'application : https://drive.google.com/file/d/1mgFGGiulnfF29-aqP7_PM9JK_ILfcZoS/view?usp=drive_link
