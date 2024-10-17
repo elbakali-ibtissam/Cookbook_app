@@ -1,5 +1,5 @@
 
-#Cookbook_app
+
 Recipe Management Mobile App
 
 Description de l'application Cette application mobile de gestion de recettes permet aux utilisateurs de découvrir, créer, et partager des recettes facilement. Les fonctionnalités incluent la visualisation des recettes sous forme de liste, la recherche avancée par nom ou catégorie, l'ajout et la modification de recettes, ainsi que la possibilité de les partager via les réseaux sociaux. Les utilisateurs peuvent également aimer des recettes, les ajouter à leurs favoris, et regarder des vidéos de cuisine sur YouTube directement depuis l'application.
