@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="300dp"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:background="@android:color/transparent">
+
+    <RelativeLayout
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:padding="20dp"
+        android:background="@android:color/white"
+        android:elevation="8dp"
+        android:layout_gravity="center">
+
+        <TextView
+            android:id="@+id/tv_confirmation"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Voulez-vous vraiment supprimer cette recette ?"
+            android:textSize="18sp"
+            android:textColor="@color/black"
+            android:fontFamily="@font/lobster"
+            android:gravity="center"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="20dp"/>
+
+
+        <LinearLayout
+            android:id="@+id/ll_buttons"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_confirmation"
+            android:orientation="horizontal"
+            android:gravity="center">
+
+            <Button
+                android:id="@+id/btn_yes"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Oui"
+                android:fontFamily="@font/lobster"
+                android:backgroundTint="@color/chibi"
+                android:textColor="@color/black"
+                android:layout_marginEnd="20dp"/>
+
+            <Button
+                android:id="@+id/btn_no"
+                android:layout_width="wrap_content"
+                android:fontFamily="@font/lobster"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/chibi"
+                android:textColor="@color/black"
+                android:text="Non"/>
+        </LinearLayout>
+    </RelativeLayout>
+</FrameLayout>

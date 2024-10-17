@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Arrière-plan brun -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#a0410e"/> <!-- Couleur brune -->
+        </shape>
+    </item>
+    <!-- Icône blanche -->
+    <item android:drawable="@drawable/filter" /> <!-- Remplacez par votre icône blanche -->
+</layer-list>

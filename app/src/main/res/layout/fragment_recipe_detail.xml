@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.motion.widget.MotionLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/lay1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f5f5f5"
+    app:layoutDescription="@xml/activity_recipe_scene">
+
+    <!-- Existing layout elements -->
+
+    <TextView
+        android:id="@+id/time7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tittle"
+        android:layout_toEndOf="@+id/clock"
+
+        android:textColor="#323232"
+        android:textSize="15sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/recipe_img"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:background="#F6F6F6"
+        android:hapticFeedbackEnabled="true"
+        android:scaleType="centerCrop"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/crepes" />
+
+    <ImageView
+        android:id="@+id/image_gradient"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintBottom_toBottomOf="@+id/recipe_img"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/image_btm_overlay" />
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="230dp"
+        android:background="@drawable/card_recipe"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/time5"
+            android:layout_width="119dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tittle"
+            android:layout_alignParentEnd="true"
+            android:layout_marginStart="15dp"
+            android:layout_marginTop="34dp"
+            android:layout_marginEnd="102dp"
+            android:layout_toEndOf="@+id/clock4"
+            android:fontFamily="@font/aldrich"
+
+            android:inputType="text"
+            android:textColor="#323232"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/clock2"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_below="@+id/tittle"
+            android:layout_alignParentStart="true"
+            android:layout_marginStart="60dp"
+            android:layout_marginTop="75dp"
+            android:src="@drawable/time" />
+
+        <TextView
+            android:id="@+id/time3"
+            android:layout_width="116dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tittle"
+            android:layout_alignParentEnd="true"
+            android:layout_marginStart="6dp"
+            android:layout_marginTop="75dp"
+            android:layout_marginEnd="114dp"
+            android:layout_toEndOf="@+id/clock2"
+            android:fontFamily="@font/aldrich"
+
+            android:inputType="text"
+            android:textColor="#323232"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/time4"
+            android:layout_width="90dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tittle"
+            android:layout_alignParentEnd="true"
+            android:layout_marginStart="5dp"
+            android:layout_marginTop="35dp"
+            android:layout_marginEnd="270dp"
+            android:layout_toEndOf="@+id/clock5"
+            android:fontFamily="@font/aldrich"
+
+            android:inputType="text"
+            android:textColor="#323232"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/clock4"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_below="@+id/tittle"
+            android:layout_alignParentStart="true"
+            android:layout_marginStart="150dp"
+            android:layout_marginTop="33dp"
+            android:src="@drawable/level" />
+
+        <ImageView
+            android:id="@+id/clock5"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_below="@+id/tittle"
+            android:layout_alignParentStart="true"
+            android:layout_marginStart="21dp"
+            android:layout_marginTop="34dp"
+            android:src="@drawable/baseline_category_24" />
+
+
+        <TextView
+            android:id="@+id/tittle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="22dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="45dp"
+            android:fontFamily="@font/aldrich"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <TextView
+            android:id="@+id/auteur"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="26dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="42dp"
+            android:layout_marginEnd="45dp"
+
+            android:fontFamily="@font/aldrich"
+            android:textColor="@color/black"
+            android:textSize="12sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <Button
+            android:id="@+id/ing_btn"
+            android:layout_width="150dp"
+            android:layout_height="42dp"
+            android:layout_below="@+id/tittle"
+            android:layout_alignParentStart="true"
+            android:layout_marginStart="34dp"
+
+
+            android:layout_marginLeft="24dp"
+            android:layout_marginTop="120dp"
+            android:background="@android:color/transparent"
+            android:fontFamily="@font/aldrich"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:text="Ingredients"
+            android:textAllCaps="false"
+            android:textColor="@color/chibi"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/steps_btn"
+            android:layout_width="150dp"
+            android:layout_height="42dp"
+            android:layout_below="@+id/tittle"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="120dp"
+            android:layout_marginEnd="34dp"
+
+            android:background="@android:color/transparent"
+            android:fontFamily="@font/aldrich"
+            android:paddingLeft="20dp"
+
+            android:paddingRight="20dp"
+            android:text="Methode"
+            android:textAllCaps="false"
+            android:textColor="@color/black"
+            android:textStyle="bold" />
+
+        <ScrollView
+            android:id="@+id/ing_scroll"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/ing_btn"
+            android:layout_alignParentStart="true"
+            android:layout_marginStart="-5dp"
+            android:layout_marginTop="1dp"
+            android:paddingLeft="20dp"
+            android:paddingTop="5dp"
+            android:paddingRight="20dp">
+
+            <TextView
+                android:id="@+id/ing"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:fontFamily="@font/aldrich"
+                android:lineSpacingExtra="10dp"
+                android:paddingTop="10dp"
+                android:paddingBottom="20dp"
+                android:text=""
+                android:textColor="#000000"
+                android:textSize="15sp"
+                app:emojiCompatEnabled="true" />
+
+        </ScrollView>
+
+        <ScrollView
+            android:id="@+id/steps"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/ing_btn"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="3dp"
+            android:paddingLeft="20dp"
+            android:paddingTop="5dp"
+            android:paddingRight="20dp"
+            android:visibility="gone">
+
+            <TextView
+                android:id="@+id/steps_txt"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:fontFamily="@font/aldrich"
+                android:letterSpacing="0.025"
+                android:lineSpacingExtra="9dp"
+                android:paddingTop="12dp"
+                android:paddingBottom="50dp"
+                android:text="Test txt is here"
+                android:textColor="#000000"
+                android:textSize="15sp"
+                app:emojiCompatEnabled="true" />
+
+        </ScrollView>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="22dp"
+            android:layout_below="@+id/ing_btn"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="5dp"
+            android:src="@drawable/text_overlay" />
+
+        <!-- Adding the new buttons -->
+
+        <ImageView
+            android:id="@+id/img_share_recipe"
+            android:layout_width="33dp"
+            android:layout_height="35dp"
+            android:layout_marginLeft="355dp"
+            android:layout_marginTop="67dp"
+            android:src="@drawable/ic_share"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageView
+            android:id="@+id/img_share_recipe_video"
+            android:layout_width="36dp"
+            android:layout_height="39dp"
+            android:layout_marginLeft="355dp"
+            android:layout_marginTop="110dp"
+            android:src="@drawable/video"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:visibility="invisible" />
+
+    </RelativeLayout>
+
+    <ImageView
+        android:id="@+id/back_btn"
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/card_back_btn"
+        android:clickable="false"
+        android:foregroundGravity="center"
+        android:hapticFeedbackEnabled="true"
+        android:padding="2dp"
+        android:src="@drawable/back_icn"
+
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/zoom_image"
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="20dp"
+        android:clickable="true"
+        android:foregroundGravity="center"
+        android:hapticFeedbackEnabled="true"
+        android:padding="4dp"
+        android:src="@drawable/outline_bookmark_border_24"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:tint="@color/white" />
+
+    <ImageView
+        android:id="@+id/scroll"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="15dp"
+        android:layout_toEndOf="@+id/tittle"
+        android:src="@drawable/scroll_up"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/relativeLayout"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <ImageView
+        android:id="@+id/like"
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:layout_marginTop="176dp"
+        android:layout_marginEnd="12dp"
+        android:clickable="true"
+        android:foregroundGravity="center"
+        android:hapticFeedbackEnabled="true"
+        android:padding="4dp"
+        android:src="@drawable/like"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/relativeLayout"
+        app:layout_constraintTop_toTopOf="parent"
+        app:tint="@color/white" />
+
+    <TextView
+        android:id="@+id/count_likes"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="188dp"
+
+        android:textColor="@color/white"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toStartOf="@+id/like"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.motion.widget.MotionLayout>

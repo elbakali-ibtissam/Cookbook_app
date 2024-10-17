@@ -1,0 +1,561 @@
+
+[
+
+  {
+    "id": 1,
+    "nom": "Tajine de poulet",
+    "categorie": "Plat principal",
+
+    "ingredients": "1 poulet coupé en morceaux\n2 oignons émincés\n2 gousses d'ail écrasées\n1 cuillère à soupe de gingembre râpé\n1 cuillère à soupe de curcuma\n1 cuillère à café de poivre noir\n1/2 cuillère à café de cannelle\n1/4 de cuillère à café de safran\n4 citrons confits coupés en quartiers\n1/2 tasse d'olives vertes dénoyautées\n1 bouquet de coriandre fraîche hachée\nhuile d'olive\nsel"
+  ,
+
+
+
+    "preparation": "1. Dans une cocotte minute ou un tajine, faire chauffer l'huile d'olive à feu moyen. Saisir les morceaux de poulet de tous les côtés jusqu'à ce qu'ils soient dorés.\n2. Ajouter les oignons, l'ail, le gingembre, le curcuma, le poivre noir, la cannelle et le safran. Remuer et cuire pendant 2 minutes.\n3. Ajouter les citrons confits, les olives et 1 tasse d'eau. Porter à ébullition, puis réduire le feu et laisser mijoter pendant 30 minutes, ou jusqu'à ce que le poulet soit cuit.\n4. Parsemer de coriandre fraîche hachée et servir chaud avec du pain ou du couscous.",
+
+    "temps_de_preparation": 30,
+    "niveau_de_difficulte": "Moyen",
+    "image": "https://th.bing.com/th/id/OIP.49M_nLhimrfC1wxV1jtRKwHaEK?w=324&h=182&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+    "video": "https://youtu.be/u6THGmZzdss",
+    "auteur": "",
+    "date_update": "",
+    "date_crate": "",
+    "likes": "",
+    "fav": "",
+    "proteines": 41.5,
+    "glucides": 10,
+    "lipides": 13,
+    "kcal": 375
+  },
+
+  {
+    "id": 2,
+    "nom": "Salade César",
+    "categorie": "Entrée",
+
+    "ingredients": "1 tête de laitue romaine\n1 tasse de croûtons\n1/2 tasse de parmesan\n2 poitrines de poulet grillées\n1/2 tasse de sauce César",
+    "preparation": "1. Préparer la laitue romaine en la lavant et en la déchirant en morceaux.\n2. Faire griller le poulet et le couper en morceaux.\n3. Mélanger la laitue, les croûtons, le parmesan et le poulet dans un grand bol.\n4. Ajouter la sauce César et mélanger jusqu'à ce que tout soit bien enrobé.",
+
+
+    "temps_de_preparation": 15,
+    "niveau_de_difficulte": "Facile",
+
+    "image": "https://images.unsplash.com/photo-1529059997568-3d847b1154f0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fFNhbGFkZSUyMEMlQzMlQTlzYXJ8ZW58MHx8MHx8fDA%3D",
+    "video" : "https://youtu.be/IvuKu1fKHI0",
+    "auteur": "",
+
+    "date_update":"",
+    "date_crate":"",
+    "likes": "",
+    "fav": "",  "proteines": 22,
+    "glucides": 18,
+    "lipides": 8,
+    "kcal": 280
+  },
+  {
+    "id": 3,
+    "nom": "Margarita",
+    "temps_de_preparation": 5,
+    "niveau_de_difficulte": "Facile",
+
+    "ingredients": "2 onces de tequila\n1 once de Triple Sec\n1 once de jus de citron vert\nsel pour garniture\nglace selon besoin",
+    "preparation": "1. Mouiller le bord d'un verre à margarita et le tremper dans du sel pour créer une bordure salée.\n2. Dans un shaker à cocktails rempli de glace, mélanger la tequila, le Triple Sec et le jus de citron vert.\n3. Secouer vigoureusement pendant environ 15 secondes.\n4. Verser dans le verre à margarita rempli de glace.\n5. Décorer avec une tranche de citron vert si désiré.",
+    "categorie": "Boisson",
+  "image": "https://images.unsplash.com/photo-1634003311194-152e30e732f7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8TWFyZ2FyaXRhfGVufDB8fDB8fHww",
+    "video" : "https://www.youtube.com/watch?v=zzAwspdDFO4&pp=ugMICgJmchABGAHKBQlNYXJnYXJpdGE%3D",
+    "auteur": "",
+    "date_update":"",
+    "date_crate":"",
+    "likes": "",
+    "fav": "",
+
+    "proteines": 35,
+    "glucides": 25,
+    "lipides": 12,
+    "kcal": 370
+
+
+  },
+
+
+
+
+
+
+  {
+    "id": 4,
+    "nom": "Tiramisu",
+    "temps_de_preparation": 30,
+    "niveau_de_difficulte": "Moyen",
+
+    "ingredients": "24 biscuits à la cuillère\n1 tasse de café fort\n16 onces de mascarpone\n1/2 tasse de sucre\n2 cuillères à soupe de cacao en poudre",
+    "preparation": "1. Préparer le café fort et le laisser refroidir.\n2. Dans un bol, mélanger le mascarpone et le sucre jusqu'à obtention d'une consistance lisse.\n3. Tremper rapidement les biscuits à la cuillère dans le café et les disposer au fond d'un plat.\n4. Étaler une couche de crème de mascarpone sur les biscuits.\n5. Répéter les couches jusqu'à épuisement des ingrédients, en terminant par une couche de crème.\n6. Saupoudrer de cacao en poudre sur le dessus.\n7. Réfrigérer pendant au moins 4 heures avant de servir.",
+
+  "categorie": "Dessert",
+    "image": "https://images.pexels.com/photos/6880219/pexels-photo-6880219.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "video": "https://www.youtube.com/watch?v=7VTtenyKRg4&pp=ygUIVGlyYW1pc3U%3D",
+
+    "auteur": "",
+    "date_update":"",
+    "date_crate":"",
+    "likes": "",
+    "fav": "",
+    "proteines": 30,
+    "glucides": 20,
+    "lipides": 15,
+    "kcal": 350
+  },
+  {
+    "id": 5,
+    "nom": "Poulet au curry",
+    "temps_de_preparation": 40,
+    "niveau_de_difficulte": "Moyen",
+
+    "ingredients": "4 poitrines de poulet\n1 oignon\n3 gousses d'ail\n1 pouce de gingembre\n3 cuillères à soupe de pâte de curry\n1 boîte de lait de coco (400 ml)\nlégumes au choix",
+    "preparation": "1. Faire chauffer de l'huile dans une grande poêle et y faire revenir l'oignon, l'ail et le gingembre jusqu'à ce qu'ils soient tendres.\n2. Ajouter la pâte de curry et cuire pendant 1 minute pour libérer les arômes.\n3. Ajouter le poulet coupé en morceaux et cuire jusqu'à ce qu'il soit doré.\n4. Verser le lait de coco dans la poêle et porter à ébullition.\n5. Réduire le feu et laisser mijoter pendant environ 20 minutes, jusqu'à ce que le poulet soit cuit.\n6. Ajouter les légumes de votre choix et laisser mijoter jusqu'à ce qu'ils soient tendres.\n7. Servir chaud avec du riz cuit.",
+
+    "categorie": "Plat principal",
+    "image": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8cG91bGV0JTIwYXUlMjBjdXJyeXxlbnwwfHwwfHx8MA%3D%3D\n",
+    "video": "https://www.youtube.com/watch?v=adyh9KB5Csw&pp=ygUPcG91bGV0IGF1IGN1cnJ5",
+    "auteur": "",
+    "date_update":"",
+    "date_crate":"",
+    "likes": "",
+    "fav": "",
+    "proteines": 34,
+    "glucides": 26,
+    "lipides": 9,
+    "kcal": 365
+  },
+  {
+    "id": 6,
+    "nom": "Guacamole",
+    "temps_de_preparation": 15,
+    "niveau_de_difficulte": "Facile",
+
+
+    "ingredients": "2 avocats mûrs\n1/2 oignon rouge\n2 tomates\n1/4 tasse de coriandre fraîche\n1 citron vert\n1 piment jalapeño\nsel selon goût\npoivre selon goût",
+    "preparation": "1. Couper les avocats en deux, retirer le noyau et récupérer la chair dans un bol.\n2. Écraser les avocats à la fourchette jusqu'à obtenir une consistance lisse mais avec quelques morceaux.\n3. Ajouter l'oignon rouge finement haché, les tomates coupées en dés, la coriandre fraîche hachée, le jus de citron vert, le piment jalapeño finement haché, le sel et le poivre.\n4. Bien mélanger tous les ingrédients jusqu'à ce qu'ils soient bien incorporés.\n5. Goûter et ajuster l'assaisonnement si nécessaire.\n6. Servir immédiatement avec des chips tortilla ou des légumes coupés en bâtonnets.",
+
+  "categorie": "Entrée",
+    "image": "https://images.unsplash.com/photo-1613082589739-004c07170907?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGd1YWNhbW9sZXxlbnwwfHwwfHx8MA%3D%3D",
+    "video": "https://www.youtube.com/watch?v=1QbC7HBwTio&pp=ygUJR3VhY2Ftb2xl",
+    "auteur": "",
+    "date_update":"",
+    "date_crate":"",
+    "likes": "",
+    "fav": "",
+    "proteines": 35,
+    "glucides": 25,
+    "lipides": 12,
+    "kcal": 370
+  },
+  {
+    "id": 7,
+    "nom": "Mojito",
+    "temps_de_preparation": 5,
+    "niveau_de_difficulte": "Facile",
+    "ingredients": "10 feuilles de menthe fraîche\n2 cuillères à soupe de sucre\n1/2 citron vert\n2 onces de rhum blanc\n2 onces d'eau gazeuse\nglaçons selon besoin",
+    "preparation": "1. Dans un verre haut, mettre les feuilles de menthe et le sucre.\n2. Presser le jus de citron vert sur la menthe et le sucre.\n3. Ajouter quelques glaçons dans le verre.\n4. Verser le rhum blanc sur les glaçons.\n5. Compléter avec de l'eau gazeuse.\n6. Mélanger doucement à l'aide d'une cuillère.\n7. Garnir avec une rondelle de citron vert et une branche de menthe.\n8. Servir avec une paille.",
+    "categorie": "Boisson",
+    "image": "https://images.pexels.com/photos/4457152/pexels-photo-4457152.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "video": "https://www.youtube.com/watch?v=KWU9ZaWbeuQ&pp=ugMICgJmchABGAHKBQZNb2ppdG8%3D",
+    "auteur": "",
+    "date_update":"",
+    "date_crate":"",
+    "likes": "",
+    "fav": "",
+    "proteines": 27,
+    "glucides": 22,
+    "lipides": 14,
+    "kcal": 330
+  },
+
+  {
+    "id": 8,
+    "nom": "Cheesecake fruits rouges",
+    "temps_de_preparation": 30,
+    "niveau_de_difficulte": "Difficile",
+
+    "ingredients": "200 g de biscuits Graham\n100 g de beurre fondu\n500 g de fromage frais\n150 g de sucre\n3 œufs\n200 ml de crème fraîche\n300 g de fruits rouges (frais ou surgelés)\n150 g de gelée de fruits rouges",
+    "preparation": "1. Préchauffer le four à 160°C.\n2. Réduire les biscuits Graham en miettes, ajouter le beurre fondu et bien mélanger.\n3. Presser ce mélange dans le fond d'un moule à charnière préalablement beurré et chemisé de papier sulfurisé.\n4. Dans un grand bol, battre le fromage frais avec le sucre jusqu'à obtenir un mélange lisse.\n5. Ajouter les œufs un à un en mélangeant bien entre chaque ajout.\n6. Incorporer la crème fraîche et mélanger jusqu'à obtenir une texture homogène.\n7. Verser la préparation sur la croûte de biscuits.\n8. Cuire au four pendant environ 60 minutes ou jusqu'à ce que le centre soit presque pris.\n9. Laisser refroidir complètement, puis réfrigérer pendant au moins 4 heures ou toute une nuit.\n10. Au moment de servir, démouler le cheesecake et garnir de fruits rouges frais.\n11. Chauffer légèrement la gelée de fruits rouges et en napper les fruits frais pour les faire briller.",
+
+    "categorie": "Dessert",
+    "image": "https://plus.unsplash.com/premium_photo-1667899297691-f83278a7217e?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "video": "https://www.youtube.com/watch?v=v806sbDXik4&pp=ygUcQ2hlZXNlY2FrZSBhdXggZnJ1aXRzIHJvdWdlcw%3D%3D",
+    "auteur": "",
+    "date_update":"",
+    "date_crate":"",
+    "likes": "",
+    "fav": "",
+    "proteines": 33,
+    "glucides": 15,
+    "lipides": 18,
+    "kcal": 360
+  },
+
+
+
+
+
+
+
+
+  {
+    "id": 9,
+    "nom": "Pâtes carbonara",
+    "temps_de_preparation": 20,
+    "niveau_de_difficulte": "Facile",
+    "ingredients": "400 g de spaghettis\n200 g de lardons\n3 œufs\n100 g de parmesan râpé\n200 ml de crème fraîche\npoivre noir moulu selon goût",
+    "preparation": "1. Faire cuire les spaghettis dans une grande casserole d'eau bouillante salée selon les instructions sur l'emballage, jusqu'à ce qu'ils soient al dente.\n2. Pendant ce temps, faire revenir les lardons dans une poêle jusqu'à ce qu'ils soient dorés et croustillants.\n3. Dans un bol, battre les œufs avec le parmesan râpé et la crème fraîche.\n4. Égoutter les spaghettis et les remettre dans la casserole chaude.\n5. Ajouter les lardons avec leur graisse aux spaghettis.\n6. Ajouter le mélange d'œufs, de parmesan et de crème fraîche aux spaghettis et mélanger rapidement.\n7. Assaisonner avec du poivre noir moulu selon votre goût.\n8. Servir chaud.",
+
+
+    "categorie": "Plat principal",
+    "image": "https://images.unsplash.com/photo-1588013273468-315fd88ea34c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8UCVDMyVBMnRlcyUyMGNhcmJvbmFyYXxlbnwwfHwwfHx8MA%3D%3D",
+    "video": "https://www.youtube.com/watch?v=kqVzOjfRZPk&pp=ygUQUMOidGVzIGNhcmJvbmFyYQ%3D%3D",
+    "auteur": "",
+    "date_update":"",
+    "date_crate":"",
+    "likes": "",
+    "fav": "",
+    "proteines": 29,
+    "glucides": 28,
+    "lipides": 11,
+    "kcal": 340
+  },
+  {
+    "id": 10,
+    "nom": "Salade tomates et mozzarella",
+    "temps_de_preparation": 15,
+    "niveau_de_difficulte": "Facile",
+    "ingredients": "4 tomates mûres\n250 g de mozzarella\nquelques feuilles de basilic frais\n2 cuillères à soupe d'huile d'olive\n1 cuillère à soupe de vinaigre balsamique\nsel et poivre",
+    "preparation": "1. Couper les tomates et la mozzarella en tranches.\n2. Disposer les tranches de tomates et de mozzarella en alternance sur un plat de service.\n3. Assaisonner avec du sel et du poivre.\n4. Parsemer de feuilles de basilic frais.\n5. Dans un petit bol, mélanger l'huile d'olive et le vinaigre balsamique.\n6. Arroser la salade de cette vinaigrette juste avant de servir.",
+    "categorie": "Entrée",
+    "image": "https://plus.unsplash.com/premium_photo-1677619680553-732e8e153db2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8c2FsYWRlJTIwZGUlMjB0b21hdGVzJTIwZXQlMjBtb3p6YXJlbGxhfGVufDB8fDB8fHww",
+    "video": "https://www.youtube.com/watch?v=mHgv5vFR-zk&pp=ygUfU2FsYWRlIGRlIHRvbWF0ZXMgZXQgbW96emFyZWxsYQ%3D%3D",
+    "auteur": "",
+    "date_update":"",
+    "date_crate":"",
+    "likes": "",
+    "fav": "",
+    "proteines": 24,
+    "glucides": 21,
+    "lipides": 16,
+    "kcal": 310
+  },
+  {"id": 11,
+    "nom": "Smoothie banane-fraise",
+    "temps_de_preparation": 10,
+    "niveau_de_difficulte": "Facile",
+
+
+
+    "ingredients": "2 bananes mûres\n200 g de fraises\n200 ml de lait d'amande\n1 cuillère à soupe de miel (facultatif)\nquelques glaçons",
+    "preparation": "1. Éplucher les bananes et les couper en morceaux.\n2. Laver et équeuter les fraises.\n3. Mettre les morceaux de banane et les fraises dans un blender.\n4. Ajouter le lait d'amande et le miel.\n5. Ajouter quelques glaçons pour plus de fraîcheur.\n6. Mixer jusqu'à obtenir une texture lisse et crémeuse.\n7. Verser dans des verres et servir immédiatement.",
+    "categorie": "Boisson",
+    "image": "https://images.pexels.com/photos/4753650/pexels-photo-4753650.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "video": "https://www.youtube.com/watch?v=Np6alaAtSFQ&pp=ygUWU21vb3RoaWUgYmFuYW5lLWZyYWlzZQ%3D%3D",
+    "auteur": "",
+    "date_update":"",
+    "date_crate":"",
+    "likes": "",
+    "fav": "",
+    "proteines": 27,
+    "glucides": 18,
+    "lipides": 16,
+    "kcal": 340
+  },
+  {
+    "id": 12,
+    "nom": "Filet de saumon grillé",
+    "temps_de_preparation": 20,
+    "niveau_de_difficulte": "Facile",
+
+
+    "ingredients": "4 filets de saumon\n2 cuillères à soupe d'huile d'olive\njus d'un citron\nsel et poivre\nquelques brins d'aneth",
+    "preparation": "1. Préchauffer le grill du four.\n2. Badigeonner les filets de saumon avec l'huile d'olive et le jus de citron.\n3. Saler et poivrer selon votre goût.\n4. Déposer les filets de saumon sur la grille du four.\n5. Faire cuire sous le grill pendant environ 10 minutes, en retournant à mi-cuisson.\n6. Servir chaud, garni de quelques brins d'aneth.",
+    "categorie": "Plat principal",
+    "image": "https://images.pexels.com/photos/7627415/pexels-photo-7627415.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "video": "https://www.youtube.com/watch?v=zC9fKef_6Oc&pp=ygUXRmlsZXQgZGUgc2F1bW9uIGdyaWxsw6k%3D",
+    "auteur": "",
+    "date_update":"",
+    "date_crate":"",
+    "likes": "",
+    "fav": "",
+    "proteines": 27,
+    "glucides": 18,
+    "lipides": 16,
+    "kcal": 340
+  },
+  {
+    "id": 13,
+    "nom": "Gaspacho Andalou",
+    "temps_de_preparation": 140,
+    "niveau_de_difficulte": "Facile",
+    "ingredients": "6 tomates bien mûres\n1 concombre\n1 poivron rouge\n1 oignon rouge\n2 gousses d'ail\n4 cuillères à soupe d'huile d'olive\n2 cuillères à soupe de vinaigre de xérès\nsel et poivre\nquelques feuilles de basilic frais",
+    "preparation": "Éplucher le concombre et le couper en morceaux. Épépiner le poivron et le couper en morceaux. Éplucher et émincer l'oignon. Couper les tomates en morceaux. Mettre tous les légumes dans un blender. Ajouter les gousses d'ail pelées, l'huile d'olive et le vinaigre de xérès. Saler et poivrer. Mixer jusqu'à obtenir une soupe homogène. Réfrigérer pendant au moins 2 heures. Servir bien frais, garni de feuilles de basilic.",
+    "categorie": "Entrée",
+    "image": "https://images.pexels.com/photos/15514359/pexels-photo-15514359/free-photo-of-nourriture-aliments-mains-femme.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "video": "https://youtu.be/tCTvm21UIi8",
+    "auteur": "",
+    "date_update":"",
+    "date_crate":"",
+    "likes": "",
+    "fav": "",
+    "proteines": 23,
+    "glucides": 17,
+    "lipides": 15,
+    "kcal": 295
+  },
+
+
+
+
+
+  {
+    "id": 14,
+    "nom": "Carpaccio de courgettes",
+    "temps_de_preparation": 15,
+    "niveau_de_difficulte": "Facile",
+
+    "ingredients": "2 courgettes\njus d'un citron\n2 cuillères à soupe d'huile d'olive\nparmesan en copeaux\nsel et poivre\nquelques feuilles de menthe fraîche",
+    "preparation": "Laver les courgettes et les couper en fines lamelles à l'aide d'une mandoline. Disposer les lamelles de courgettes sur un plat de service. Arroser du jus de citron et de l'huile d'olive. Saler et poivrer. Parsemer de copeaux de parmesan. Garnir de feuilles de menthe fraîche.",
+    "categorie": "Entrée",
+    "image": "https://bing.com/th?id=OSK.804650835ee021d94695aa89c8641c54",
+    "video": "https://www.youtube.com/watch?v=V-nWJnK4eCM&pp=ygUXQ2FycGFjY2lvIGRlIGNvdXJnZXR0ZXM%3D",
+    "auteur": "",
+    "date_update":"",
+    "date_crate":"",
+    "likes": "",
+    "fav": "",
+    "proteines": 28,
+    "glucides": 19,
+    "lipides": 17,
+    "kcal": 345
+  },
+  {
+    "id": 15,
+    "nom": "Smoothie vert",
+    "temps_de_preparation": 10,
+    "niveau_de_difficulte": "Facile",
+
+    "ingredients": "2 poignées de bébés épinards\n1 banane\n1 pomme verte\n1/2 concombre\njus d'un citron\n200 ml d'eau de coco",
+    "preparation": "Éplucher la banane et la pomme. Couper le concombre en morceaux. Mettre tous les ingrédients dans un blender. Mixer jusqu'à obtenir une texture lisse et homogène. Ajouter plus d'eau de coco si nécessaire pour obtenir la consistance désirée.",
+    "categorie": "Boisson",
+    "image": "https://images.unsplash.com/photo-1610622929740-0b489c884e43?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "video": "https://www.youtube.com/watch?v=SMUBdkJGll8&pp=ygUNU21vb3RoaWUgdmVydA%3D%3D",
+    "auteur": "",
+    "date_update":"",
+    "date_crate":"",
+    "likes": "",
+    "fav": "",
+    "proteines": 34,
+    "glucides": 26,
+    "lipides": 9,
+    "kcal": 365
+  },
+
+  {
+    "id": 16,
+    "nom": "Limonade maison",
+    "temps_de_preparation": 75,
+    "niveau_de_difficulte": "Facile",
+
+    "ingredients": "4 citrons\n150 g de sucre\n1 litre d'eau\nquelques feuilles de menthe fraîche",
+    "preparation": "Presser les citrons pour en extraire le jus. Faire chauffer 500 ml d'eau dans une casserole et y dissoudre le sucre pour obtenir un sirop. Laisser refroidir. Dans une carafe, mélanger le jus de citron, le sirop et le reste d'eau. Réfrigérer pendant au moins 1 heure. Au moment de servir, ajouter des glaçons et des feuilles de menthe fraîche.",
+    "categorie": "Boisson",
+    "image": "https://images.unsplash.com/photo-1623934397237-ce68cb0285b3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzl8fGxpbW9uYWRlfGVufDB8fDB8fHww",
+    "video" : "https://youtu.be/I85nKlGw9mY",
+    "auteur": "",
+    "date_update":"",
+    "date_crate":"",
+    "likes": "",
+    "fav": "",
+    "proteines": 27,
+    "glucides": 18,
+    "lipides": 16,
+    "kcal": 340
+  }
+
+
+,
+  {
+    "id": 17,
+    "nom": "Café frappé",
+    "temps_de_preparation": 5,
+    "niveau_de_difficulte": "Facile",
+
+
+    "ingredients": "2 cuillères à café de café soluble\n2 cuillères à café de sucre\n100 ml d'eau\n4 glaçons\n50 ml de lait",
+    "preparation": "Dans un blender, mélanger le café soluble, le sucre, l'eau et les glaçons. Mixer jusqu'à obtenir une texture mousseuse. Verser dans un verre et ajouter le lait. Servir immédiatement.",
+
+    "categorie": "Boisson",
+    "image": "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Q2FmJUMzJUE5JTIwZnJhcHAlQzMlQTl8ZW58MHx8MHx8fDA%3D",
+    "video": "https://www.youtube.com/watch?v=tMPjv1v6xE8&pp=ygUNQ2Fmw6kgZnJhcHDDqQ%3D%3D",
+    "auteur": "",
+    "date_update":"",
+    "date_crate":"",
+    "likes": "",
+    "fav": "",
+    "proteines": 23,
+    "glucides": 17,
+    "lipides": 15,
+    "kcal": 295
+
+  },
+  {
+    "id": 18,
+    "nom": "Mousse au chocolat",
+    "temps_de_preparation": 140,
+    "niveau_de_difficulte": "Facile",
+
+    "ingredients": "200 g de chocolat noir\n4 œufs\n1 pincée de sel",
+    "preparation": "Faire fondre le chocolat au bain-marie. Séparer les blancs des jaunes d'œufs. Monter les blancs en neige avec une pincée de sel. Incorporer les jaunes d'œufs au chocolat fondu. Ajouter délicatement les blancs en neige au mélange chocolaté. Répartir la mousse dans des ramequins. Réfrigérer pendant au moins 2 heures avant de déguster.",
+
+    "categorie": "Dessert",
+    "image": "https://images.unsplash.com/photo-1590080875852-ba44f83ff2db?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8TW91c3NlJTIwYXUlMjBjaG9jb2xhdHxlbnwwfHwwfHx8MA%3D%3D",
+    "video": "https://www.youtube.com/watch?v=IeTNZQiVIrI&pp=ygUSTW91c3NlIGF1IGNob2NvbGF0",
+    "auteur": "",
+    "date_update":"",
+    "date_crate":"",
+    "likes": "",
+    "fav": "",
+    "proteines": 36,
+    "glucides": 22,
+    "lipides": 13,
+    "kcal": 370
+  },
+  {
+    "id": 19,
+    "nom": "Poulet rôti aux herbes",
+    "temps_de_preparation": 25,
+    "niveau_de_difficulte": "Facile",
+    "ingredients": "1 poulet entier\nherbes de Provence\nsel\npoivre\nhuile d'olive",
+    "preparation": "Préchauffer le four à 180°C. Assaisonner le poulet avec les herbes de Provence, le sel et le poivre, puis arroser d'huile d'olive. Enfourner et cuire pendant environ 1h30, en arrosant régulièrement le poulet avec son jus.",
+
+    "categorie": "Plat principal",
+    "image": "https://images.unsplash.com/photo-1567121938596-6d9d015d348b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8UG91bGV0JTIwciVDMyVCNHRpJTIwYXV4JTIwaGVyYmVzfGVufDB8fDB8fHww",
+    "video": "https://www.youtube.com/watch?v=P9dhZNghp3o&pp=ygUXUG91bGV0IHLDtHRpIGF1eCBoZXJiZXM%3D",
+    "auteur": "",
+    "date_update":"",
+    "date_crate":"",
+    "likes": "",
+    "fav": "",
+    "proteines": 28,
+    "glucides": 19,
+    "lipides": 17,
+    "kcal": 345
+
+  },
+  {
+    "id": 20,
+    "nom": "Ratatouille provençale",
+    "temps_de_preparation": 50,
+    "niveau_de_difficulte": "Moyen",
+
+    "ingredients": "2 aubergines\n2 courgettes\n2 poivrons rouges\n2 tomates\n2 oignons\n2 gousses d'ail\nhuile d'olive\nherbes de Provence\nsel\npoivre",
+    "preparation": "Éplucher et couper les légumes en dés. Faire chauffer de l'huile d'olive dans une cocotte et y faire revenir les oignons émincés et l'ail écrasé. Ajouter les poivrons coupés en lamelles et laisser cuire quelques minutes. Incorporer ensuite les aubergines et les courgettes. Laisser mijoter à feu doux pendant environ 30 minutes. Ajouter les tomates concassées, les herbes de Provence, le sel et le poivre. Poursuivre la cuisson pendant 15 minutes. Servir chaud ou froid.",
+
+    "categorie": "Plat principal",
+    "image": "https://plus.unsplash.com/premium_photo-1713635953474-b74990274152?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fHJhdGF0b3VpbGxlfGVufDB8fDB8fHww",
+    "video": "https://www.youtube.com/watch?v=q1vmVmbeH20&pp=ygUXUmF0YXRvdWlsbGUgcHJvdmVuw6dhbGU%3D",
+    "auteur": "",
+    "date_update":"",
+    "date_crate":"",
+    "likes": "",
+    "fav": "",
+    "proteines": 21,
+    "glucides": 25,
+    "lipides": 11,
+    "kcal": 310
+  },
+  {
+    "id": 21,
+    "nom": "Pizza maison",
+    "temps_de_preparation": 50,
+    "niveau_de_difficulte": "Moyen",
+
+    "ingredients": "Pour la pâte : 250 g de farine\n1 sachet de levure de boulanger\n15 cl d'eau tiède\n2 cuillères à soupe d'huile d'olive\nsel\nPour la garniture : sauce tomate\nmozzarella\njambon\nchampignons\nolives\norigan",
+    "preparation": "Préparer la pâte en mélangeant la farine, la levure, l'eau tiède, l'huile d'olive et une pincée de sel. Pétrir jusqu'à obtenir une pâte souple et élastique. Laisser reposer 1 heure. Préchauffer le four à 220°C. Étaler la pâte sur une plaque de cuisson. Garnir de sauce tomate, de mozzarella et des ingrédients de votre choix. Saupoudrer d'origan. Enfourner et cuire pendant environ 15 minutes, jusqu'à ce que la pâte soit dorée et croustillante.",
+
+    "categorie": "Plat principal",
+    "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGl6emF8ZW58MHx8MHx8fDA%3D",
+    "video": "https://www.youtube.com/watch?v=5DSebxu4RLY&pp=ygUMUGl6emEgbWFpc29u",
+    "auteur": "",
+    "date_update":"",
+    "date_crate":"",
+    "likes": "",
+    "fav": "",
+    "proteines": 29,
+    "glucides": 20,
+    "lipides": 14,
+    "kcal": 340
+  },
+
+  {
+    "id": 22,
+    "nom": "Lasagnes bolognaises",
+    "temps_de_preparation": 90,
+    "niveau_de_difficulte": "Moyen",
+
+
+    "ingredients": "Pour la sauce bolognaise : 400 g de viande de bœuf hachée\n1 oignon\n2 gousses d'ail\n800 g de pulpe de tomates\n2 carottes\n2 branches de céleri\n20 cl de vin rouge\nhuile d'olive\nsel\npoivre\nAutres ingrédients : feuilles de lasagnes\nbéchamel\nparmesan râpé",
+    "preparation": "Préparer la sauce bolognaise : Émincer l'oignon, l'ail, les carottes et le céleri. Faire revenir l'oignon et l'ail dans un peu d'huile d'olive. Ajouter la viande hachée et la faire dorer. Incorporer les légumes émincés. Verser le vin rouge et laisser mijoter jusqu'à évaporation. Ajouter la pulpe de tomates, saler et poivrer. Laisser mijoter à feu doux pendant environ 1 heure. Préchauffer le four à 180°C. Dans un plat à gratin, alterner des couches de sauce bolognaise, de feuilles de lasagnes et de béchamel. Terminer par une couche de béchamel saupoudrée de parmesan râpé. Enfourner et cuire pendant environ 30 minutes, jusqu'à ce que les lasagnes soient dorées et bubulées.",
+
+    "categorie": "Plat principal",
+    "image": "https://images.unsplash.com/photo-1709429790175-b02bb1b19207?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fExhc2FnbmVzJTIwYm9sb2duYWlzZXMlMjJ8ZW58MHx8MHx8fDA%3D",
+    "video": "https://www.youtube.com/watch?v=0nE7dAlDshk&pp=ygUTTGFzYWduZXMgYm9sb2duYWlzZQ%3D%3D",
+    "auteur": "",
+    "date_update":"",
+    "date_crate":"",
+    "likes": "",
+    "fav": "",
+    "proteines": 35,
+    "glucides": 26,
+    "lipides": 16,
+    "kcal": 390
+  },
+  {
+    "id": 23,
+    "nom": "Couscous royal",
+    "temps_de_preparation": 60,
+    "niveau_de_difficulte": "Difficile",
+    "ingredients": "500 g de semoule de couscous\n500 g de viande d'agneau\n500 g de poulet\n500 g de merguez\n2 carottes\n2 navets\n2 courgettes\n1 poivron rouge\n1 poivron vert\n2 oignons\n2 gousses d'ail\npois chiches cuits\nhuile d'olive\nbeurre clarifié\népices à couscous\nsel\npoivre",
+    "preparation": "Préparer la semoule de couscous selon les instructions sur l'emballage. Couper la viande d'agneau et de poulet en morceaux. Faire chauffer de l'huile d'olive dans un couscoussier et y faire revenir les morceaux de viande jusqu'à ce qu'ils soient dorés. Ajouter les oignons émincés, l'ail écrasé et les épices à couscous. Couvrir d'eau et laisser mijoter pendant environ 1 heure. Ajouter les légumes coupés en morceaux et les pois chiches. Poursuivre la cuisson pendant 30 minutes. Faire griller les merguez. Servir le couscous dans un grand plat, disposer les viandes et les légumes dessus. Arroser le tout de beurre clarifié.",
+
+    "categorie": "Plat principal",
+    "image": "https://images.unsplash.com/photo-1541518763669-27fef04b14ea?q=80&w=1933&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "video": "https://www.youtube.com/watch?v=d_vSjnuGWc4&pp=ygUOQ291c2NvdXMgcm95YWw%3D",
+    "auteur": "",
+    "date_update":"",
+    "date_crate":"",
+    "likes": "",
+    "fav": "",
+    "proteines": 30,
+    "glucides": 15,
+    "lipides": 12,
+    "kcal": 330
+  }
+
+
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

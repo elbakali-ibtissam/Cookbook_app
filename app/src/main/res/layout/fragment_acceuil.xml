@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    android:id="@+id/content"
+    tools:context=".AcceuilActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#f4f2f1"
+        android:orientation="vertical"
+        android:paddingTop="15dp">
+
+
+        <ImageView
+            android:id="@+id/img_back"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="3dp"
+            android:background="@drawable/card_back_btn"
+            android:clickable="false"
+            android:foregroundGravity="center"
+            android:hapticFeedbackEnabled="true"
+            android:padding="2dp"
+            android:src="@drawable/back_icn"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/profle_name"
+            style="@style/TextAppearance.AppCompat.Title"
+            android:layout_width="400dp"
+            android:layout_height="41dp"
+            android:layout_marginLeft="1sp"
+            android:layout_marginTop="15dp"
+            android:background="#f4f2f1"
+            android:fontFamily="@font/lobster"
+            android:inputType="text|textMultiLine"
+            android:text="Bon retour"
+            android:textColor="@color/brown"
+            android:textSize="40sp" />
+
+        <!-- LinearLayout to hold EditText and Button -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <EditText
+                android:id="@+id/editTextText2"
+                android:layout_width="0dp"
+                android:layout_height="50dp"
+                android:layout_marginStart="9dp"
+                android:layout_marginTop="2dp"
+                android:layout_marginEnd="8dp"
+                android:layout_weight="1"
+                android:background="@drawable/input_bg"
+                android:backgroundTint="@color/white"
+                android:drawableLeft="@drawable/baseline_manage_search_24"
+                android:drawablePadding="10dp"
+                android:ems="5"
+                android:hint=""
+                android:inputType="text"
+                android:paddingLeft="20dp"
+                android:paddingTop="13dp"
+                android:paddingRight="20dp"
+                android:paddingBottom="13dp"
+                android:textColor="@color/black"
+
+                android:textColorHint="@color/black"
+                tools:ignore="MissingConstraints" />
+
+            <Button
+                android:id="@+id/button"
+                android:layout_width="70dp"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="10dp"
+
+
+                android:backgroundTint="@color/brown"
+                app:icon="@drawable/filter" />
+        </LinearLayout>
+
+        <HorizontalScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10sp"
+            android:layout_marginTop="8dp"
+            android:scrollbars="none">
+
+            <com.google.android.material.chip.ChipGroup
+                android:id="@+id/chip_group"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                app:chipSpacingHorizontal="8dp"
+                app:singleSelection="true">
+
+
+                <com.google.android.material.chip.Chip
+                    android:id="@+id/chip"
+                    style="@style/Widget.Material3.Chip.Filter.Elevated"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Plat principal"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Small"
+                    app:chipBackgroundColor="@color/white"
+                    app:chipCornerRadius="20dp" />
+
+                <com.google.android.material.chip.Chip
+                    android:id="@+id/chip5"
+                    style="@style/Widget.Material3.Chip.Filter.Elevated"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Boisson"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Small"
+                    app:chipBackgroundColor="@color/white"
+                    app:chipCornerRadius="20dp" />
+
+                <com.google.android.material.chip.Chip
+                    android:id="@+id/chip6"
+                    style="@style/Widget.Material3.Chip.Filter.Elevated"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Entrée"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Small"
+                    app:chipBackgroundColor="@color/white"
+                    app:chipCornerRadius="20dp" />
+
+                <com.google.android.material.chip.Chip
+                    android:id="@+id/chip7"
+                    style="@style/Widget.Material3.Chip.Filter.Elevated"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Dessert"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Small"
+                    app:chipBackgroundColor="@color/white"
+                    app:chipCornerRadius="20dp" />
+
+
+            </com.google.android.material.chip.ChipGroup>
+        </HorizontalScrollView>
+
+        <ListView
+            android:id="@+id/home_list"
+            style="@style/Widget.AppCompat.ListView.DropDown"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="18sp"
+            android:dividerHeight="10dp"
+            android:scrollbars="none" />
+    </LinearLayout>
+</FrameLayout>

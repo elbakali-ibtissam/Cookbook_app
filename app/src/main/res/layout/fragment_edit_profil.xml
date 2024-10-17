@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f5f5f5"
+    tools:context=".EditProfilFragment">
+
+
+    <ImageView
+        android:id="@+id/back_btn"
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/card_back_btn"
+        android:clickable="false"
+        android:foregroundGravity="center"
+        android:hapticFeedbackEnabled="true"
+        android:padding="2dp"
+        android:src="@drawable/back_icon"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cardView2"
+        android:layout_width="210dp"
+        android:layout_height="210dp"
+        android:layout_gravity="center_horizontal"
+
+        android:layout_marginTop="20dp"
+
+        app:cardCornerRadius="50dp"
+        app:cardElevation="12dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+
+            android:id="@+id/img"
+            android:layout_width="210dp"
+            android:layout_height="210dp"
+            android:layout_gravity="center"
+            android:scaleType="centerCrop"
+            app:srcCompat="@drawable/account" />
+        <!--        <com.google.android.material.imageview.ShapeableImageView-->
+        <!--            android:id="@+id/img"-->
+        <!--            android:layout_width="70dp"-->
+        <!--            android:layout_height="70dp"-->
+        <!--            android:layout_gravity="center_vertical"-->
+        <!--            android:layout_marginLeft="15dp"-->
+        <!--            android:adjustViewBounds="true"-->
+        <!--            android:outlineSpotShadowColor="@color/black"-->
+        <!--            android:scaleType="centerCrop"-->
+        <!--            android:src="@drawable/icon"-->
+        <!--            app:shapeAppearanceOverlay="@style/roundimageview" />-->
+
+    </androidx.cardview.widget.CardView>
+
+    <Button
+        android:id="@+id/upload"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_alignBottom="@id/photo_placeholder"
+        android:layout_alignParentEnd="true"
+        android:layout_gravity="end"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="150dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="14dp"
+        android:backgroundTint="@color/kahwi"
+        android:drawableTop="@drawable/dd" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="250dp"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/textView3"
+            android:layout_width="match_parent"
+            android:layout_height="39dp"
+            android:layout_marginStart="25dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginEnd="25dp"
+            android:background="@drawable/input_bg"
+            android:fontFamily="@font/aldrich"
+            android:hint="Username"
+            android:paddingStart="8dp"
+            android:textColor="@color/black" />
+
+        <EditText
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="39dp"
+            android:layout_marginStart="25dp"
+            android:layout_marginTop="15dp"
+            android:paddingStart="8dp"
+            android:layout_marginEnd="25dp"
+            android:background="@drawable/input_bg"
+            android:fontFamily="@font/aldrich"
+            android:textColor="@color/black"
+            android:hint="Email" />
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="25dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginEnd="25dp"
+            android:background="@drawable/input_bg"
+            android:orientation="horizontal">
+
+            <EditText
+                android:id="@+id/TextPassword"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:textColor="@color/black"
+                android:backgroundTint="#F5F5F5"
+                android:ems="10"
+                android:fontFamily="@font/aldrich"
+                android:hint="Ancien Password"
+                android:inputType="textPassword"
+                android:paddingStart="8dp" />
+
+            <ImageView
+                android:id="@+id/imgTogglePasswordVisibility"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:padding="10dp" />
+        </LinearLayout>
+
+        <LinearLayout
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="25dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginEnd="25dp"
+            android:background="@drawable/input_bg"
+            android:orientation="horizontal">
+
+            <EditText
+                android:id="@+id/editTextTextPassword2"
+                android:layout_width="0dp"
+                android:textColor="@color/black"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:backgroundTint="#F5F5F5"
+                android:ems="10"
+                android:fontFamily="@font/aldrich"
+                android:hint="Nouveau Password"
+                android:inputType="textPassword"
+                android:paddingStart="8dp" />
+
+            <ImageView
+                android:id="@+id/imgTogglePasswordVisibility2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:padding="10dp" />
+        </LinearLayout>
+
+
+        <Button
+            android:id="@+id/button4"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="30dp"
+            android:backgroundTint="@color/kahwi"
+            android:fontFamily="@font/aldrich"
+            android:text="Modifier" />
+
+        <Button
+            android:id="@+id/button5"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="20dp"
+            android:backgroundTint="@color/chibi"
+            android:fontFamily="@font/aldrich"
+            android:text="Déconnexion" />
+
+    </LinearLayout>
+
+
+</FrameLayout>

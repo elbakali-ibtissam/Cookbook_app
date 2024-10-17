@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:id="@+id/nav_graph"
+app:startDestination="@id/acceuil_Fragment">
+
+<fragment
+    android:id="@+id/acceuil_Fragment"
+    android:name="com.example.cookbook_app.AcceuilFragment"
+    android:label="fragment_home"
+    tools:layout="@layout/fragment_acceuil" />
+
+<fragment
+    android:id="@+id/addFragment"
+    android:name="com.example.cookbook_app.AddFragment"
+    android:label="fragment_add"
+    tools:layout="@layout/fragment_add" />
+
+<fragment
+    android:id="@+id/savedFragment"
+    android:name="com.example.cookbook_app.SavedFragment"
+    android:label="fragment_saved"
+    tools:layout="@layout/fragment_saved" />
+
+<fragment
+    android:id="@+id/profileFragment"
+    android:name="com.example.cookbook_app.ProfileFragment"
+    android:label="fragment_profile"
+    tools:layout="@layout/fragment_profile" />
+
+</navigation>
+
+
+
+
+
+
+    <!--
+<fragment
+    android:id="@+id/addFragment"
+    android:name="com.example.application1.AddFragment"
+    android:label="fragment_add"
+    tools:layout="@layout/fragment_add" />
+<fragment
+    android:id="@+id/profileFragment"
+    android:name="com.example.application1.ProfileFragment"
+    android:label="fragment_profile"
+    tools:layout="@layout/fragment_profile" />
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.example.application1.homeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+        -->
