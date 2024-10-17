@@ -18,5 +18,7 @@ Gestion de la liste de favoris et suivi des recettes aimées.
 Technologies utilisées :
 
 Langage : Java
+
 Environnement : Android Studio
+
 Base de données : SQLite
